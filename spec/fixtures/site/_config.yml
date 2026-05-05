@@ -1,0 +1,9 @@
+title: Fixture Site
+description: A test site for jekyll-llms-output.
+url: https://example.com
+
+plugins:
+  - jekyll-llms-output
+
+llms_output:
+  enabled: true
